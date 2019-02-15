@@ -7,4 +7,3 @@ async login(code) {
     } else {
         throw new Error('登录失败')
     }
-}
